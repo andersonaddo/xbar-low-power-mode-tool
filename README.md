@@ -1,6 +1,8 @@
 # xbar-low-power-mode-tool
 A quick xbar tool to better manage Low Power Mode on Mac books.
 
+<img src="xbarLPMScreenshot.png" height="150"/>
+
 ## What's xbar?
 
 [This is xbar!](https://xbarapp.com/)
